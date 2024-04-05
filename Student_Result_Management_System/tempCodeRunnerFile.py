@@ -1,0 +1,1 @@
+self.root.focus_force()
